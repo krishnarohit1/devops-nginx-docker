@@ -63,19 +63,4 @@ location /service2/ {
 
 📝 All services run with one command: docker-compose up --build
 
-📁 Project Structure
-css
-Copy
-Edit
-.
-├── docker-compose.yml
-├── nginx/
-│   ├── nginx.conf
-│   └── Dockerfile
-├── service_1/
-│   ├── main.go
-│   └── Dockerfile
-├── service_2/
-│   ├── app.py
-│   └── Dockerfile
-└── README.md
+
