@@ -64,3 +64,4 @@ location /service2/ {
 📝 All services run with one command: docker-compose up --build
 
 
+![devops](https://github.com/user-attachments/assets/ce77de70-e3ac-4d1e-a33b-c3ad4b49d50b)
